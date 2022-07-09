@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @P1nh
 - 👀 Eu estou interessado em aprender mais sobre programação
-- 🌱 Estou estudando atualmente JavaScript pela Udemy
+- 🌱 Estou estudando atualmente na Alura Java e JavaScript, HTML e CSS
 - 💞️ Estou um pouco perdido por onde dar continuidade nos meus estudos e como colocar eles em prática.
 - 📫 Para entrar em contato: arthurpinheirodasilva2@gmail.com
 
