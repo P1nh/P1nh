@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @P1nh
+- 👋 Oi, eu sou @P1nh
 - 👀 Eu estou interessado em aprender mais sobre programação
 - 🌱 Estou estudando atualmente na Alura Java e JavaScript, HTML e CSS
 - 💞️ Estou um pouco perdido por onde dar continuidade nos meus estudos e como colocar eles em prática.
