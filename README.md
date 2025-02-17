@@ -1,6 +1,6 @@
 - 👋 Oi, eu sou @P1nh
 - 👀 Eu estou interessado em aprender mais sobre programação
-- 🌱 Estou estudando atualmente na Alura Java e JavaScript e react
+- 🌱 Estou estudando atualmente na Alura JavaScript e react
 - 💞️ Estou um pouco perdido por onde dar continuidade nos meus estudos e como colocar eles em prática.
 - 📫 Para entrar em contato: arthurpinheirodasilva2@gmail.com
 
