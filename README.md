@@ -1,10 +1,18 @@
-- 👋 Oi, eu sou @P1nh
-- 👀 Eu estou interessado em aprender mais sobre programação
-- 🌱 Estou estudando atualmente na Alura JavaScript e react
-- 💞️ Estou estudando no momento um projeto CRUD de cadastro de pessoa para aumentar meu conhecimento
-- 📫 Para entrar em contato: arthurpinheirodasilva2@gmail.com
+<!--
+  🚀 README de Perfil do GitHub de P1nh
+  ✔️ Aparece na seção de destaque do seu perfil
+-->
 
-<!---
-P1nh/P1nh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Olá, eu sou o Arthur Pinheiro (P1nh)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Pinheiro-blue?logo=linkedin)](https://www.linkedin.com/in/seu-perfil)  
+[![Email](https://img.shields.io/badge/✉️-arthurpinheirodasilva2@gmail.com-red)](mailto:arthurpinheirodasilva2@gmail.com)
+
+---
+
+## 🎯 Sobre Mim
+- 🧑‍🎓 Formado em Análise e Desenvolvimento de Sistemas  
+- 💻 Apaixonado por **JavaScript**, **React** e desenvolvimento web  
+- 🎓 Estudando atualmente na [Alura](https://www.alura.com.br)  
+- 🚀 Buscando a primeira oportunidade na área de **Desenvolvimento de Software**
+
