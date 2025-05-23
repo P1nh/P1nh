@@ -5,7 +5,7 @@
 
 # 👋 Olá, eu sou o Arthur Pinheiro (P1nh)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Pinheiro-blue?logo=linkedin)](https://www.linkedin.com/in/seu-perfil)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Pinheiro-blue?logo=linkedin)](www.linkedin.com/in/arthur-pinheiro-da-silva-b438071b5)  
 [![Email](https://img.shields.io/badge/✉️-arthurpinheirodasilva2@gmail.com-red)](mailto:arthurpinheirodasilva2@gmail.com)
 
 ---
